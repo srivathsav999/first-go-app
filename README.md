@@ -1,3 +1,3 @@
 # first-go-app
 
-#this is my first git app
+#this is my first go app
